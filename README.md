@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓Computer Science M.Tech. Graduate from NIT Hamirpur.<br>Skills: Spring Boot, MERN Stack<br>🦜Talks about DevOps
+🧑‍🎓Computer Science M.Tech. Graduate from NIT Hamirpur.<br>🤹 Skills: Spring Boot, MERN Stack<br>🦜Talks about DevOps
 
 
 ## 🌐 Socials:
