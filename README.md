@@ -54,14 +54,12 @@
       <h3>🛠 Data Structures & Algorithms</h3>
       <ul>
         <li><strong>Proficient in:</strong> Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Dynamic Programming</li>
-        <li><strong>Competitive Programming:</strong> LeetCode (500+ problems), CodeChef, CodeForces</li>
       </ul>
     </td>
     <td valign="top">
       <h3>🏗️ System Design</h3>
       <ul>
-        <li><strong>High-Level Design:</strong> Microservices, Scalable Architectures, Caching Strategies</li>
-        <li><strong>Low-Level Design:</strong> OOD, Design Patterns, Database Design</li>
+        <li><strong>Low-Level Design:</strong> SOLID, Design Patterns</li>
       </ul>
     </td>
     <td valign="top">
