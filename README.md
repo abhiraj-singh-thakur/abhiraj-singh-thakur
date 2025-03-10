@@ -48,15 +48,32 @@
 
 # 📚 Other Skills:
 
-### **🛠 Data Structures & Algorithms (DSA)**
-### **🏗️ Low-Level System Design **
-
-
-### **🔧 Other Tech Stack**
-- **Databases:** PostgreSQL, MySQL, Redis, MongoDB  
-- **Message Queues:** Apache Kafka, 
-- **APIs:** REST, 
-- **Monitoring & Logging:** ELK Stack, Prometheus, Grafana  
-
+<table>
+  <tr>
+    <td valign="top">
+      <h3>🛠 Data Structures & Algorithms</h3>
+      <ul>
+        <li><strong>Proficient in:</strong> Arrays, Linked Lists, Stacks, Queues, Trees, Graphs, Dynamic Programming</li>
+        <li><strong>Competitive Programming:</strong> LeetCode (500+ problems), CodeChef, CodeForces</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h3>🏗️ System Design</h3>
+      <ul>
+        <li><strong>High-Level Design:</strong> Microservices, Scalable Architectures, Caching Strategies</li>
+        <li><strong>Low-Level Design:</strong> OOD, Design Patterns, Database Design</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <h3>🔧 Other Tech Stack</h3>
+      <ul>
+        <li><strong>Databases:</strong> PostgreSQL, MySQL, Redis, MongoDB</li>
+        <li><strong>Message Queues:</strong> Apache Kafka</li>
+        <li><strong>APIs:</strong> REST</li>
+        <li><strong>Monitoring & Logging:</strong> ELK Stack, Prometheus, Grafana</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 ---
 
